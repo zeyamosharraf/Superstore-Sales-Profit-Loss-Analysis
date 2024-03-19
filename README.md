@@ -1,4 +1,4 @@
-# Project Title: Superstore Sales Dashboard - Profit & Loss Analysis
+# Superstore Sales - Profit & Loss Analysis
 
 # Project Overview
 In this project, I conducted an in-depth analysis of a superstore's sales data to create a comprehensive dashboard that highlights key performance indicators (KPIs), profit and loss insights, and sales trends. Utilizing advanced Excel techniques, I was able to dissect the data to uncover actionable insights that could drive strategic business decisions.
