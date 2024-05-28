@@ -1,5 +1,5 @@
 # Superstore Sales - Profit & Loss Analysis
-
+To visit the interactive dashboard created for this project, [click here](https://msrf999-my.sharepoint.com/:x:/g/personal/msrf_msrf999_onmicrosoft_com/ERq8AJB1YDFMkXwi5oO-8voBR3bzaEgGY-DOnh7LliHx-A?rtime=uOu-f_B-3Eg).
 # Project Overview
 In this project, I conducted an in-depth analysis of a superstore's sales data to create a comprehensive dashboard that highlights key performance indicators (KPIs), profit and loss insights, and sales trends. Utilizing advanced Excel techniques, I was able to dissect the data to uncover actionable insights that could drive strategic business decisions.
 
